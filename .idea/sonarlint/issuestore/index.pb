@@ -1,0 +1,31 @@
+
+~
+Nauthority-control-shiro/src/main/resources/mybatis/mapper/PermissionMapper.xml,8\c\8ca8dd60ce11ce6bd458fcffcd864ab6dd6fcdcf
+x
+Hauthority-control-shiro/src/main/resources/mybatis/mapper/RoleMapper.xml,d\8\d88f6cb6fd31b8fe527b67fe804eea4f9ebecb92
+x
+Hauthority-control-shiro/src/main/resources/mybatis/mapper/UserMapper.xml,1\e\1e03efabdda6fcf56838253a99e2f628abd584e2
+s
+Cauthority-control-shiro/src/main/resources/mybatis/SqlMapConfig.xml,8\2\82ac781c5d33cf90649e24e074d597b148b278e9
+€
+Pauthority-control-shiro/src/main/resources/spring/applicationContext-mybatis.xml,a\1\a1db7576d7a1e47209290167f7b890cb104a78f8
+p
+@authority-control-shiro/src/main/resources/authority-control.sql,6\9\69d3c2e38f2603f9b3a6d800d4c4180c74532bd7
+K
+authority-control/README.md,5\a\5ab50fe5d29fa1a54325dc4056d5628d024d8899
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Q
+!authority-control-shiro/README.md,3\7\374c0ed555fb3e2130d7b430622ec89e9f89a9c0
+y
+Iauthority-control-shiro/src/main/webapp/WEB-INF/jsp/permission/listUI.jsp,3\b\3ba0e961389313dd4f7a4b9d48dcb91f00add38d
+y
+Iauthority-control-shiro/src/main/webapp/WEB-INF/jsp/permission/saveUI.jsp,4\f\4f12cd7958ba952232fceccb90ec8ce6438809d6
+s
+Cauthority-control-shiro/src/main/webapp/WEB-INF/jsp/role/listUI.jsp,f\6\f6e08176a1f3af8eb2f659789fae64ce59adfc20
+s
+Cauthority-control-shiro/src/main/webapp/WEB-INF/jsp/role/saveUI.jsp,9\3\93e1bea8611ef9b67505430e8b26047b63ddb36f
+s
+Cauthority-control-shiro/src/main/webapp/WEB-INF/jsp/user/listUI.jsp,d\9\d9134b2668995f6df00175a8059b980d4017e466
+O
+authority-control-shiro/pom.xml,4\a\4ad418ac35ca34f2dc38fb8b3dc811807e9ef975
